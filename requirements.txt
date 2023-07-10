@@ -1,0 +1,14 @@
+numpy
+pandas
+streamlit
+sklearn
+json
+gzip
+random
+re
+os
+nltk
+seaborn
+warnings
+
+-e .
